@@ -1,6 +1,6 @@
 # 资源分享平台
 
-基于Spring Cloud Alibaba微服务架构和Vue.js的前后端分离游戏资源分享平台。
+基于Spring Cloud Alibaba微服务架构和Vue.js的前后端分离资源分享平台。
 
 ## 技术栈
 
