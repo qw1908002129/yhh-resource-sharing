@@ -1,0 +1,71 @@
+# Backend compiled directories
+backend/*/target/
+backend/*/*/target/
+backend/*/*/*/target/
+
+# Frontend node_modules and build directories
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Spring Boot
+*.jar
+*.war
+*.ear
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Test reports
+test-results/
+reports/ 
