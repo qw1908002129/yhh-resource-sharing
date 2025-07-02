@@ -1,0 +1,4 @@
+com\yhh\common\result\Result.class
+com\yhh\common\config\MybatisPlusConfig.class
+com\yhh\common\entity\BaseEntity.class
+com\yhh\common\result\ResultCode.class

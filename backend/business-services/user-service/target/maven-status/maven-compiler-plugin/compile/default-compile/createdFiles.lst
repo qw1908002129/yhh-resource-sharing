@@ -1,0 +1,16 @@
+com\yhh\user\mapper\UserMapper.class
+com\yhh\user\dto\UserLoginDTO.class
+com\yhh\user\UserServiceApplication.class
+com\yhh\user\config\WebConfig.class
+com\yhh\user\service\UserService.class
+com\yhh\user\config\ControllerLogAspect.class
+com\yhh\user\config\SecurityConfig.class
+com\yhh\user\entity\User.class
+com\yhh\user\enums\UserRole.class
+com\yhh\user\config\JwtAuthenticationFilter.class
+com\yhh\user\utils\JwtUtils.class
+com\yhh\user\vo\UserVO.class
+com\yhh\user\dto\UserRegisterDTO.class
+com\yhh\user\config\GlobalExceptionHandler.class
+com\yhh\user\controller\UserController.class
+com\yhh\user\service\impl\UserServiceImpl.class

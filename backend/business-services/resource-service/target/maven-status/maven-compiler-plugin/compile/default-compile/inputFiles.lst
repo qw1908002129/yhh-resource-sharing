@@ -1,0 +1,15 @@
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\config\WebMvcConfig.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\mapper\CategoryMapper.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\vo\ResourceVO.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\service\CategoryService.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\controller\ResourceController.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\mapper\ResourceMapper.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\service\ResourceService.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\controller\CategoryController.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\ResourceServiceApplication.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\config\JwtAuthenticationFilter.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\config\SecurityConfig.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\service\impl\ResourceServiceImpl.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\entity\Resource.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\entity\Category.java
+D:\idea_workspace\yhh_game\backend\business-services\resource-service\src\main\java\com\yhh\resource\service\impl\CategoryServiceImpl.java

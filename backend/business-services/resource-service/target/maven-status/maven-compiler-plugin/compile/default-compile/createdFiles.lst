@@ -1,0 +1,15 @@
+com\yhh\resource\mapper\CategoryMapper.class
+com\yhh\resource\config\WebMvcConfig.class
+com\yhh\resource\service\impl\CategoryServiceImpl.class
+com\yhh\resource\controller\CategoryController.class
+com\yhh\resource\controller\ResourceController.class
+com\yhh\resource\service\ResourceService.class
+com\yhh\resource\config\SecurityConfig.class
+com\yhh\resource\service\impl\ResourceServiceImpl.class
+com\yhh\resource\vo\ResourceVO.class
+com\yhh\resource\service\CategoryService.class
+com\yhh\resource\config\JwtAuthenticationFilter.class
+com\yhh\resource\entity\Resource.class
+com\yhh\resource\entity\Category.class
+com\yhh\resource\ResourceServiceApplication.class
+com\yhh\resource\mapper\ResourceMapper.class
